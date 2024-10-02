@@ -1,6 +1,7 @@
 # Employee-Management-System
 
-**Overview\n**
+**Overview**
+
 The Employee Management System (EMS) is a web-based application designed to manage employee records efficiently. The project is developed using Java, MySQL, HTML, CSS, and JavaScript. It provides a simple yet powerful interface for handling tasks such as adding, editing, and deleting employee information, making it easier to manage large employee databases.
 
 **Features**
